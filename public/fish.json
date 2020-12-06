@@ -1,0 +1,1142 @@
+[
+    {
+        "Name" : "ゴールデンフィン",
+        "StartTime" : 9,
+        "EndTime" : 13,
+        "Weather" : [],
+        "Location" : "リムサ・ロミンサ",
+        "InnerLocation" : "リムサ・ロミンサ：上甲板層",
+        "Bait" : "ピルバグ",
+        "Notice" : ""
+    },
+    {
+        "Name" : "メガオクトパス",
+        "StartTime" : 9,
+        "EndTime" : 16,
+        "Weather" : [],
+        "Location" : "リムサ・ロミンサ",
+        "InnerLocation" : "リムサ・ロミンサ：下甲板層",
+        "Bait" : "メルトールゴビー / ハーバーヘリング(以小釣大)",
+        "Notice" : ""
+    },
+    {
+        "Name" : "ザルエラ",
+        "StartTime" : 9,
+        "EndTime" : 13,
+        "Weather" : [],
+        "Location" : "中央ラノシア",
+        "InnerLocation" : "ゼファードリフト沿岸",
+        "Bait" : "ラットの尾",
+        "Notice" : ""
+    },
+    {
+        "Name" : "ギガシャーク",
+        "StartTime" : 0,
+        "EndTime" :23,
+        "Weather" : ["快晴", "晴れ"],
+        "Location" : "中央ラノシア",
+        "InnerLocation" : "サマーフォード沿岸",
+        "Bait" : "メルトールゴビー  / ハーバーヘリング / オーガバラクーダ(以小釣大)",
+        "Notice" : ""
+    },
+    {
+        "Name" : "トリックスター",
+        "StartTime" : 9,
+        "EndTime" :13,
+        "Weather" : [],
+        "Location" : "中央ラノシア",
+        "InnerLocation" : "ローグ川",
+        "Bait" : "モスプパ",
+        "Notice" : ""
+    },
+    {
+        "Name" : "スナガクレ",
+        "StartTime" : 0,
+        "EndTime" :23,
+        "Weather" : [],
+        "Location" : "中央ラノシア",
+        "InnerLocation" : "西アジェレス川",
+        "Bait" : "ザリガニボール",     
+        "Notice" : ""
+    },
+    {
+        "Name" : "ハイパーチ",
+        "StartTime" : 5,
+        "EndTime" :7,
+        "Weather" : [],
+        "Location" : "中央ラノシア",
+        "InnerLocation" : "ニーム川",
+        "Bait" : "シンキングミノー",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "クリスタルパーチ",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["曇り", "霧", "風"],
+        "Location" : "中央ラノシア",
+        "InnerLocation" : "ささやきの谷",
+        "Bait" : "バターワーム",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "オオゴエナマズ",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : [],
+        "Location" : "低地ラノシア",
+        "InnerLocation" : "モーニングウィドー",
+        "Bait" : "モスプパ",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "オシュオンプリント",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : [],
+        "Location" : "低地ラノシア",
+        "InnerLocation" : "モラビー湾西岸",
+        "Bait" : "ゴビーボール",
+        "Notice" : ""
+    },
+    {
+        "Name" : "シルドラ",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["雨"],
+        "Location" : "低地ラノシア",
+        "InnerLocation" : "シダーウッド沿岸部",
+        "Bait" : "スプーンワーム",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "ザ・リッパー",
+        "StartTime" : 21,
+        "EndTime" : 2,
+        "Weather" : [],
+        "Location" : "低地ラノシア",
+        "InnerLocation" : "モラビー造船廠",
+        "Bait" : "ゴビーボール",   
+        "Notice" : ""
+    },
+    {
+        "Name" : "シルバーソブリン",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : [],
+        "Location" : "低地ラノシア",
+        "InnerLocation" : "オシュオン灯台",
+        "Bait" : "弓角",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "メテオサバイバー",
+        "StartTime" : 3,
+        "EndTime" : 4,
+        "Weather" : ["曇り", "風", "霧"],
+        "Location" : "低地ラノシア",
+        "InnerLocation" : "ソルトストランド",
+        "Bait" : "ラットの尾",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "サーベルタイガーコッド",
+        "StartTime" : 16,
+        "EndTime" : 21,
+        "Weather" : [],
+        "Location" : "低地ラノシア",
+        "InnerLocation" : "キャンドルキープ埠頭",
+        "Bait" : "ゴビーボール",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "フェアリークィーン",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["曇り", "霧", "風"],
+        "Location" : "低地ラノシア",
+        "InnerLocation" : "エンプティハート",
+        "Bait" : "スピナー / スピナーベイト",
+        "Notice" : ""
+    },
+    {
+        "Name" : "オヤジウオ",
+        "StartTime" : 17,
+        "EndTime" : 18,
+        "Weather" : [],
+        "Location" : "低地ラノシア",
+        "InnerLocation" : "ブラインドアイアン坑道",
+        "Bait" : "ハナアブ",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "ビアナックブーン",
+        "StartTime" : 20,
+        "EndTime" : 22,
+        "Weather" : [],
+        "Location" : "東ラノシア",
+        "InnerLocation" : "南ブラッドショア",
+        "Bait" : "シュリンプフィーダー",
+        "Notice" : ""
+    },
+    {
+        "Name" : "シャークトゥーナ",
+        "StartTime" : 19,
+        "EndTime" : 20,
+        "Weather" : ["快晴", "晴れ"],
+        "Location" : "東ラノシア",
+        "InnerLocation" : "コスタ・デル・ソル",
+        "Bait" : "スプーンワーム → フルムーンサーディン",
+        "Notice" : ""
+    },
+    {
+        "Name" : "ボンバードフィッシュ",
+        "StartTime" : 9,
+        "EndTime" : 14,
+        "Weather" : ["快晴"],
+        "Location" : "東ラノシア",
+        "InnerLocation" : "北ブラッドショア",
+        "Bait" : "ヘリングボール",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "ソルター",
+        "StartTime" : 17,
+        "EndTime" : 19,
+        "Weather" : ["快晴", "晴れ"],
+        "Location" : "東ラノシア",
+        "InnerLocation" : "隠れ滝",
+        "Bait" : "ハニーワーム",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "ドラウンドスナイパー",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["快晴", "晴れ"],
+        "Location" : "東ラノシア",
+        "InnerLocation" : "東アジェレス川",
+        "Bait" : "スナーブルフライ",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "テルプシコレアン",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["霧"],
+        "Location" : "東ラノシア",
+        "InnerLocation" : "レインキャッチャー樹林",
+        "Bait" : "ハニーワーム",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "ミラースケイル",
+        "StartTime" : 9,
+        "EndTime" : 15,
+        "Weather" : ["快晴", "晴れ"],
+        "Location" : "東ラノシア",
+        "InnerLocation" : "レインキャッチャー沼沢地",
+        "Bait" : "ユスリカ → 銅魚",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "黄金魚",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : [],
+        "Location" : "東ラノシア",
+        "InnerLocation" : "レッドマンティス滝",
+        "Bait" : "ハニーワーム → 銀魚",      
+        "Notice" : "漁師直感: ハニーワーム → 銀魚 → 金魚 → オオモリナマズ(3條)"
+    },
+    {
+        "Name" : "オールドマーリン",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["快晴"],
+        "Location" : "東ラノシア",
+        "InnerLocation" : "ロータノ海沖合：船首",
+        "Bait" : "ピルバグ → ハーバーヘリング → オーガバラクーダ",
+        "Notice" : "天氣變化: 雨 → 快晴"
+    },
+    {
+        "Name" : "ネプトの竜",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["雨", "暴雨"],
+        "Location" : "東ラノシア",
+        "InnerLocation" : "ロータノ海沖合：船尾",
+        "Bait" : "ポーラークリル(直釣)或ポーラークリル → メルトールゴビー",
+        "Notice" : "漁師直感: ポーラークリル → リトルサラオス(3條)"
+    },
+    {
+        "Name" : "リトルペリュコス",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["雨", "暴雨"],
+        "Location" : "東ラノシア",
+        "InnerLocation" : "常夏の島北",
+        "Bait" : "ラグワーム → メルトールゴビー → ワフー",
+        "Notice" : ""
+    },
+    {
+        "Name" : "スケーリーフット",
+        "StartTime" : 19,
+        "EndTime" : 2,
+        "Weather" : [],
+        "Location" : "西ラノシア",
+        "InnerLocation" : "スウィフトパーチ入植地",
+        "Bait" : "ポーラークリル",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "ジャンクモンガー",
+        "StartTime" : 16,
+        "EndTime" : 1,
+        "Weather" : [],
+        "Location" : "西ラノシア",
+        "InnerLocation" : "スカルバレー沿岸部",
+        "Bait" : "ラグワーム → メルトールゴビー → ワフー",
+        "Notice" : ""
+    },
+    {
+        "Name" : "ローンリッパー",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["暴風"],
+        "Location" : "西ラノシア",
+        "InnerLocation" : "ハーフストーン沿岸部",
+        "Bait" : "ヘヴィメタルジグ",     
+        "Notice" : ""
+    },
+    {
+        "Name" : "ヘルムズマンズハンド",
+        "StartTime" : 9,
+        "EndTime" : 14,
+        "Weather" : ["曇り", "風", "霧"],
+        "Location" : "西ラノシア",
+        "InnerLocation" : "幻影諸島北岸",
+        "Bait" : "ピルバグ → オーシャンクラウド"      ,
+        "Notice" : ""
+    },
+    {
+        "Name" : "コエラカントゥス",
+        "StartTime" : 22,
+        "EndTime" : 2,
+        "Weather" : ["曇り", "風", "霧"],
+        "Location" : "西ラノシア",
+        "InnerLocation" : "幻影諸島南岸",
+        "Bait" : "スプーンワーム → フルムーンサーディン",
+        "Notice" : ""
+    },
+    {
+        "Name" : "エンドセラス",
+        "StartTime" : 20,
+        "EndTime" : 3,
+        "Weather" : ["曇り", "風", "霧"],
+        "Location" : "西ラノシア",
+        "InnerLocation" : "幻影諸島南岸",
+        "Bait" : "スプーンワーム → フルムーンサーディン",
+        "Notice" : "天氣變化: 晴れ、快晴 → 曇り、霧、風"
+    },
+    {
+        "Name" : "リムレーンズソード",
+        "StartTime" : 9,
+        "EndTime" : 13,
+        "Weather" : ["快晴", "晴れ"],
+        "Location" : "西ラノシア",
+        "InnerLocation" : "ブルワーズ灯台",
+        "Bait" : "弓角",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "ラブカ",
+        "StartTime" : 17,
+        "EndTime" : 2,
+        "Weather" : ["曇り", "風", "霧"],
+        "Location" : "西ラノシア",
+        "InnerLocation" : "船の墓場",
+        "Bait" : "ラグワーム → メルトールゴビー → ワフー → ジャイアントスキッド",
+        "Notice" : ""
+    },
+    {
+        "Name" : "キャプテンズチャリス",
+        "StartTime" : 23,
+        "EndTime" : 0,
+        "Weather" : [],
+        "Location" : "西ラノシア",
+        "InnerLocation" : "サプサ産卵地",
+        "Bait" : "スプーンワーム → フルムーンサーディン",
+        "Notice" : ""
+    },
+    {
+        "Name" : "シーハッグ",
+        "StartTime" : 19,
+        "EndTime" : 1,
+        "Weather" : ["快晴", "晴れ"],
+        "Location" : "西ラノシア",
+        "InnerLocation" : "船隠しの港",
+        "Bait" : "シュリンプフィーダー → メルトールゴビー → ワフー",
+        "Notice" : ""
+    },
+    {
+        "Name" : "トラマフィッシュ",
+        "StartTime" : 17,
+        "EndTime" : 19,
+        "Weather" : ["曇り", "霧"],
+        "Location" : "高地ラノシア",
+        "InnerLocation" : "オークウッド",
+        "Bait" : "スピナー → スカルピン",
+        "Notice" : ""
+    },
+    {
+        "Name" : "ジャンヌ・トラウト",
+        "StartTime" : 4,
+        "EndTime" : 5,
+        "Weather" : [],
+        "Location" : "高地ラノシア",
+        "InnerLocation" : "愚か者の滝",
+        "Bait" : "クロウフライ",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "スプリングキング(高地)",
+        "StartTime" : 16,
+        "EndTime" : 18,
+        "Weather" : [],
+        "Location" : "高地ラノシア",
+        "InnerLocation" : "ブロンズレイク北東岸",
+        "Bait" : "スピナーベイト",      
+        "Notice" : "同スプリングキング(外地)"
+    },
+    {
+        "Name" : "ワーム・オブ・ニーム",
+        "StartTime" : 19,
+        "EndTime" : 21,
+        "Weather" : [],
+        "Location" : "高地ラノシア",
+        "InnerLocation" : "ブロンズレイク・シャロー",
+        "Bait" : "バターワーム",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "サンダーガット",
+        "StartTime" : 19,
+        "EndTime" : 2,
+        "Weather" : ["雨"],
+        "Location" : "外地ラノシア",
+        "InnerLocation" : "ロングクライム渓谷",
+        "Bait" : "テッポウムシ",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "スプリングキング(外地)",
+        "StartTime" : 16,
+        "EndTime" : 18,
+        "Weather" : [],
+        "Location" : "外地ラノシア",
+        "InnerLocation" : "ブロンズレイク北西岸",
+        "Bait" : "スピナーベイト",      
+        "Notice" : "同スプリングキング(高地)"
+    },
+    {
+        "Name" : "トゥイッチビアード",
+        "StartTime" : 4,
+        "EndTime" : 5,
+        "Weather" : ["快晴", "晴れ"],
+        "Location" : "ミスト・ヴィレッジ",
+        "InnerLocation" : "ミスト・ヴィレッジ",
+        "Bait" : "スプーンワーム → フルムーンサーディン",
+        "Notice" : ""
+    },
+    {
+        "Name" : "招嵐王",
+        "StartTime" : 17,
+        "EndTime" : 1,
+        "Weather" : ["雨"],
+        "Location" : "グリダニア：新市街",
+        "InnerLocation" : "グリダニア：翡翠湖畔",
+        "Bait" : "テッポウムシ",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "ブラッディブルワー",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : [],
+        "Location" : "グリダニア：新市街",
+        "InnerLocation" : "グリダニア：紅茶川水系下流",
+        "Bait" : "ザリガニボール",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "マトロンカープ",
+        "StartTime" : 15,
+        "EndTime" : 20,
+        "Weather" : [],
+        "Location" : "グリダニア：旧市街",
+        "InnerLocation" : "グリダニア：囁きの渓谷",
+        "Bait" : "ブラッドワーム",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "意地ブナ",
+        "StartTime" : 9,
+        "EndTime" : 13,
+        "Weather" : ["霧", "曇り"],
+        "Location" : "グリダニア：旧市街",
+        "InnerLocation" : "グリダニア：紅茶川水系上流",
+        "Bait" : "クロウフライ",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "カイラージョン",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : [],
+        "Location" : "黒衣森：中央森林",
+        "InnerLocation" : "葉脈水系",
+        "Bait" : "モスプパ → ゼブラゴビー",
+        "Notice" : ""
+    },
+    {
+        "Name" : "人面魚",
+        "StartTime" : 21,
+        "EndTime" : 2,
+        "Weather" : ["雨"],
+        "Location" : "黒衣森：中央森林",
+        "InnerLocation" : "鏡池",
+        "Bait" : "バターワーム",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "レヴィンライト",
+        "StartTime" : 18,
+        "EndTime" : 22,
+        "Weather" : [],
+        "Location" : "黒衣森：中央森林",
+        "InnerLocation" : "エバーシェイド",
+        "Bait" : "ハナアブ",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "グリーンジェスター",
+        "StartTime" : 18,
+        "EndTime" : 20,
+        "Weather" : [],
+        "Location" : "黒衣森：中央森林",
+        "InnerLocation" : "芽吹の池",
+        "Bait" : "ハニーワーム",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "ブラッドバス",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["雷"],
+        "Location" : "黒衣森：中央森林",
+        "InnerLocation" : "ハウケタ御用邸",
+        "Bait" : "ハニーワーム → 銀魚",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "ダークアンブッシャー",
+        "StartTime" : 21,
+        "EndTime" : 2,
+        "Weather" : [],
+        "Location" : "黒衣森：東部森林",
+        "InnerLocation" : "花蜜桟橋",
+        "Bait" : "モスプパ → ゼブラゴビー",
+        "Notice" : ""
+    },
+    {
+        "Name" : "シルフズベーン",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["雨"],
+        "Location" : "黒衣森：東部森林",
+        "InnerLocation" : "青翠の奈落",
+        "Bait" : "バターワーム → 銅魚",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "モルバ",
+        "StartTime" : 18,
+        "EndTime" : 1,
+        "Weather" : [],
+        "Location" : "黒衣森：東部森林",
+        "InnerLocation" : "さざなみ小川",
+        "Bait" : "ユスリカ → グラディエーターベア",
+        "Notice" : ""
+    },
+    {
+        "Name" : "マジック・マッシュルームクラブ",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["霧", "曇り"],
+        "Location" : "黒衣森：東部森林",
+        "InnerLocation" : "シルフランド渓谷",
+        "Bait" : "スピナーベイト → スカルピン",
+        "Notice" : "天氣變化: 雷、雨 → 霧、曇り"
+    },
+    {
+        "Name" : "ターミネーター",
+        "StartTime" : 21,
+        "EndTime" : 22,
+        "Weather" : [],
+        "Location" : "黒衣森：東部森林",
+        "InnerLocation" : "十二神大聖堂",
+        "Bait" : "バターワーム",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "ビッグバイパー",
+        "StartTime" : 18,
+        "EndTime" : 18,
+        "Weather" : [],
+        "Location" : "黒衣森：南部森林",
+        "InnerLocation" : "ハズーバ支流：上流",
+        "Bait" : "バターワーム",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "シンカー",
+        "StartTime" : 21,
+        "EndTime" : 2,
+        "Weather" : ["晴れ", "快晴"],
+        "Location" : "黒衣森：南部森林",
+        "InnerLocation" : "ハズーバ支流：中流",
+        "Bait" : "シンキングミノー",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "フローティングボルダー",
+        "StartTime" : 0,
+        "EndTime" : 7,
+        "Weather" : ["曇り", "霧"],
+        "Location" : "黒衣森：南部森林",
+        "InnerLocation" : "ハズーバ支流：下流",
+        "Bait" : "バスボール",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "グリナー",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : [],
+        "Location" : "黒衣森：南部森林",
+        "InnerLocation" : "ハズーバ支流：東",
+        "Bait" : "ハナアブ",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "ゴブスレイヤー",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["雷", "雷雨"],
+        "Location" : "黒衣森：南部森林",
+        "InnerLocation" : "ゴブリン族の生簀",
+        "Bait" : "ハニーワーム → 銀魚",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "雷皇子",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["雷雨"],
+        "Location" : "黒衣森：南部森林",
+        "InnerLocation" : "根渡り沼",
+        "Bait" : "カディスラーヴァ"      
+ ,       "Notice" : ""
+    },
+    {
+        "Name" : "オオタキタロ",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["雷", "雷雨"],
+        "Location" : "黒衣森：南部森林",
+        "InnerLocation" : "ウルズの恵み",
+        "Bait" : "グロウワーム",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "ナミタロ",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["雷", "雷雨"],
+        "Location" : "黒衣森：南部森林",
+        "InnerLocation" : "ウルズの恵み",
+        "Bait" : "トップウォーターフロッグ",
+        "Notice" : "漁師直感: グロウワーム → オオタキタロ"
+    },
+    {
+        "Name" : "ブルーウィドー",
+        "StartTime" : 9,
+        "EndTime" : 13,
+        "Weather" : [],
+        "Location" : "黒衣森：北部森林",
+        "InnerLocation" : "さざめき川",
+        "Bait" : "フローティングミノー",
+        "Notice" : ""
+    },
+    {
+        "Name" : "ジャッジレイ",
+        "StartTime" : 17,
+        "EndTime" : 20,
+        "Weather" : [],
+        "Location" : "黒衣森：北部森林",
+        "InnerLocation" : "フォールゴウド秋瓜湖畔",
+        "Bait" : "フェザントフライ",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "シャドーストリーク",
+        "StartTime" : 4,
+        "EndTime" : 9,
+        "Weather" : ["霧"],
+        "Location" : "黒衣森：北部森林",
+        "InnerLocation" : "プラウドクリーク",
+        "Bait" : "トップウォーターフロッグ",
+        "Notice" : ""
+    },
+    {
+        "Name" : "コーネリア",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : [],
+        "Location" : "黒衣森：北部森林",
+        "InnerLocation" : "タホトトル湖畔",
+        "Bait" : "レインボースプーン",      
+        "Notice" : "漁師直感: グロウワーム → ボクシングプレコ(5條)"
+    },
+    {
+        "Name" : "スウィートニュート",
+        "StartTime" : 23,
+        "EndTime" : 3,
+        "Weather" : ["霧"],
+        "Location" : "ラベンダーベッド",
+        "InnerLocation" : "ラベンダーベッド",
+        "Bait" : "ユスリカ → グラディエーターベア",
+        "Notice" : ""
+    },
+    {
+        "Name" : "ダーティーヘリング",
+        "StartTime" : 20,
+        "EndTime" : 21,
+        "Weather" : [],
+        "Location" : "西ザナラーン",
+        "InnerLocation" : "シルバーバザー",
+        "Bait" : "ポーラークリル",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "リベットオイスター",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : [],
+        "Location" : "西ザナラーン",
+        "InnerLocation" : "ベスパーベイ",
+        "Bait" : "ヘヴィメタルジグ",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "フィンガーズ",
+        "StartTime" : 17,
+        "EndTime" : 17,
+        "Weather" : [],
+        "Location" : "西ザナラーン",
+        "InnerLocation" : "クレセントコーヴ",
+        "Bait" : "ポーラークリル",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "銅鏡",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["快晴", "晴れ"],
+        "Location" : "西ザナラーン",
+        "InnerLocation" : "ノフィカの井戸",
+        "Bait" : "バターワーム",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "マッドゴーレム",
+        "StartTime" : 21,
+        "EndTime" : 2,
+        "Weather" : [],
+        "Location" : "西ザナラーン",
+        "InnerLocation" : "足跡の谷",
+        "Bait" : "バターワーム",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "パイレーツハンター",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : [],
+        "Location" : "西ザナラーン",
+        "InnerLocation" : "ウエストウインド岬",
+        "Bait" : "ラグワーム → メルトールゴビー / ワフー",
+        "Notice" : "漁師直感: ラグワーム → ワフー(6條)"
+    },
+    {
+        "Name" : "ヴァンパイアウィップ",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["晴れ", "快晴", "霧", "曇り"],
+        "Location" : "西ザナラーン",
+        "InnerLocation" : "パラタの墓所",
+        "Bait" : "ハニーワーム → 銀魚",      
+        "Notice" : "雨 → 晴れ、快晴、霧、曇り"
+    },
+    {
+        "Name" : "ンデンデキ",
+        "StartTime" : 18,
+        "EndTime" : 4,
+        "Weather" : ["霧"],
+        "Location" : "西ザナラーン",
+        "InnerLocation" : "ムーンドリップ洞窟",
+        "Bait" : "ハニーワーム → 銀魚 / アサシンベタ",
+        "Notice" : ""
+    },
+    {
+        "Name" : "ドリームゴビー",
+        "StartTime" : 17,
+        "EndTime" : 2,
+        "Weather" : [],
+        "Location" : "中央ザナラーン",
+        "InnerLocation" : "スートクリーク上流",
+        "Bait" : "ザリガニボール",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "ヌルヌルキング",
+        "StartTime" : 19,
+        "EndTime" : 23,
+        "Weather" : [],
+        "Location" : "中央ザナラーン",
+        "InnerLocation" : "スートクリーク下流",
+        "Bait" : "ザリガニボール",
+        "Notice" : ""
+    },    
+    {
+        "Name" : "ダークナイト",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["砂塵", "曇り", "霧"],
+        "Location" : "中央ザナラーン",
+        "InnerLocation" : "アンホーリーエアー",
+        "Bait" : "クロウフライ",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "オールドソフティ",
+        "StartTime" : 17,
+        "EndTime" : 20,
+        "Weather" : [],
+        "Location" : "中央ザナラーン",
+        "InnerLocation" : "クラッチ狭間",
+        "Bait" : "ブラッドワーム",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "ジンコツシャブリ",
+        "StartTime" : 20,
+        "EndTime" : 2,
+        "Weather" : ["暴雨", "雨"],
+        "Location" : "東ザナラーン",
+        "InnerLocation" : "ドライボーン北湧水地",
+        "Bait" : "ハナアブ",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "マッドピルグリム",
+        "StartTime" : 17,
+        "EndTime" : 6,
+        "Weather" : ["暴雨", "雨"],
+        "Location" : "東ザナラーン",
+        "InnerLocation" : "ドライボーン南湧水地",
+        "Bait" : "ユスリカ" ,     
+        "Notice" : ""
+    },
+    {
+        "Name" : "ワーデンズワンド",
+        "StartTime" : 17,
+        "EndTime" : 19,
+        "Weather" : ["快晴"],
+        "Location" : "東ザナラーン",
+        "InnerLocation" : "ユグラム川",
+        "Bait" : "ハニーワーム",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "サウザンドイヤー・イーチ",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["霧"],
+        "Location" : "東ザナラーン",
+        "InnerLocation" : "バーニングウォール",
+        "Bait" : "テッポウムシ",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "ホローアイズ",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["霧"],
+        "Location" : "南ザナラーン",
+        "InnerLocation" : "リザードクリーク",
+        "Bait" : "ユスリカ → 銅魚",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "ディスコボルス",
+        "StartTime" : 12,
+        "EndTime" : 17,
+        "Weather" : ["灼熱波"],
+        "Location" : "南ザナラーン",
+        "InnerLocation" : "ザハラクの湧水",
+        "Bait" : "グロウワーム",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "アイアンヌース",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["霧"],
+        "Location" : "南ザナラーン",
+        "InnerLocation" : "忘れられたオアシス",
+        "Bait" : "スピナー",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "ホーリーカーペット",
+        "StartTime" : 9,
+        "EndTime" : 15,
+        "Weather" : ["灼熱波"],
+        "Location" : "南ザナラーン",
+        "InnerLocation" : "サゴリー砂海",
+        "Bait" : "サンドリーチ → サンドストームライダー",
+        "Notice" : ""
+    },
+    {
+        "Name" : "ヘリコプリオン",
+        "StartTime" : 8,
+        "EndTime" : 19,
+        "Weather" : ["灼熱波"],
+        "Location" : "南ザナラーン",
+        "InnerLocation" : "サゴリー砂海",
+        "Bait" : "サンドリーチ → サンドストームライダー",
+        "Notice" : "天氣變化: 霧、曇り → 灼熱波"
+    },    
+    {
+        "Name" : "オルゴイコルコイ",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["灼熱波"],
+        "Location" : "南ザナラーン",
+        "InnerLocation" : "サゴリー砂丘",
+        "Bait" : "サンドリーチ → サンドストームライダー"      ,
+        "Notice" : ""
+    },
+    {
+        "Name" : "ウーツナイフ・ゼニス",
+        "StartTime" : 1,
+        "EndTime" : 3,
+        "Weather" : ["霧"],
+        "Location" : "北ザナラーン",
+        "InnerLocation" : "青燐泉",
+        "Bait" : "ハニーワーム → 銀魚",     
+        "Notice" : "天氣變化: 晴れ、快晴 → 霧"
+    },
+    {
+        "Name" : "ハンニバル",
+        "StartTime" : 22,
+        "EndTime" : 3,
+        "Weather" : ["霧"],
+        "Location" : "北ザナラーン",
+        "InnerLocation" : "ブルーフォグ湧水地",
+        "Bait" : "スピナーベイト → スカルピン",
+        "Notice" : ""
+    },
+    {
+        "Name" : "スピアノーズ",
+        "StartTime" : 21,
+        "EndTime" : 23,
+        "Weather" : ["霧", "曇り"],
+        "Location" : "ゴブレットビュート",
+        "InnerLocation" : "ゴブレットビュート",
+        "Bait" : "カディスラーヴァ",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "ダナフェンズマーク",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["吹雪"],
+        "Location" : "クルザス中央高地",
+        "InnerLocation" : "クルザス川",
+        "Bait" : "フェザントフライ",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "マハール",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["吹雪"],
+        "Location" : "クルザス中央高地",
+        "InnerLocation" : "ウィッチドロップ",
+        "Bait" : "ホバーワーム → スプリットクラウド",
+        "Notice" : "天氣變化: 晴れ、快晴 → 吹雪"
+    },
+    {
+        "Name" : "ショニサウルス",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["吹雪"],
+        "Location" : "クルザス中央高地",
+        "InnerLocation" : "ウィッチドロップ",
+        "Bait" : "ホバーワーム → スプリットクラウド → マハール",
+        "Notice" : "天氣變化: 晴れ、快晴 → 吹雪"
+    },
+    {
+        "Name" : "スターブライト",
+        "StartTime" : 20,
+        "EndTime" : 3,
+        "Weather" : ["晴れ", "快晴"],
+        "Location" : "クルザス中央高地",
+        "InnerLocation" : "剣ヶ峰山麓",
+        "Bait" : "ハニーワーム→アバラシアスメルト",
+        "Notice" : ""
+    },
+    {
+        "Name" : "ダークスター",
+        "StartTime" : 19,
+        "EndTime" : 3,
+        "Weather" : ["雪", "吹雪"],
+        "Location" : "クルザス中央高地",
+        "InnerLocation" : "聖ダナフェンの落涙",
+        "Bait" : "ハニーワーム → アバラシアスメルト",
+        "Notice" : "漁師直感: チョコボフライ → ランプマリモ(5條)"
+    },
+    {
+        "Name" : "ドーンメイデン",
+        "StartTime" : 5,
+        "EndTime" : 6,
+        "Weather" : ["晴れ", "快晴"],
+        "Location" : "クルザス中央高地",
+        "InnerLocation" : "キャンプ・ドラゴンヘッド溜池",
+        "Bait" : "フェザントフライ",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "カローンズランタン",
+        "StartTime" : 23,
+        "EndTime" : 3,
+        "Weather" : ["雪", "吹雪"],
+        "Location" : "クルザス中央高地",
+        "InnerLocation" : "聖ダナフェンの旅程",
+        "Bait" : "グロウワーム",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "メイトリアーク",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : [],
+        "Location" : "クルザス中央高地",
+        "InnerLocation" : "調査隊の氷穴",
+        "Bait" : "ハニーワーム → アバラシアスメルト",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "ブルーコープス",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["快晴", "晴れ"],
+        "Location" : "クルザス中央高地",
+        "InnerLocation" : "スノークローク大氷壁",
+        "Bait" : "カディスラーヴァ",      
+        "Notice" : "天氣變化: 吹雪、雪 → 晴れ、快晴"
+    },
+    {
+        "Name" : "アノマロカリス",
+        "StartTime" : 10,
+        "EndTime" : 14,
+        "Weather" : ["快晴", "晴れ"],
+        "Location" : "クルザス中央高地",
+        "InnerLocation" : "イシュガルド大雲海",
+        "Bait" : "ホバーワーム → スプリットクラウド",
+        "Notice" : ""
+    },
+    {
+        "Name" : "エーテルラウス",
+        "StartTime" : 3,
+        "EndTime" : 12,
+        "Weather" : ["妖霧"],
+        "Location" : "モードゥナ",
+        "InnerLocation" : "銀泪湖北岸",
+        "Bait" : "グロウワーム",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "ヴォイドバス",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["妖霧"],
+        "Location" : "モードゥナ",
+        "InnerLocation" : "早霜峠",
+        "Bait" : "グロウワーム",      
+        "Notice" : "天氣變化: 晴れ、快晴 → 妖霧"
+    },
+    {
+        "Name" : "ニンジャベタ",
+        "StartTime" : 18,
+        "EndTime" : 8,
+        "Weather" : ["妖霧"],
+        "Location" : "モードゥナ",
+        "InnerLocation" : "タングル湿林",
+        "Bait" : "ユスリカ → グラディエーターベア → アサシンベタ",
+        "Notice" : ""
+    },
+    {
+        "Name" : "インフェルノホーン",
+        "StartTime" : 0,
+        "EndTime" : 23,
+        "Weather" : ["晴れ", "快晴"],
+        "Location" : "モードゥナ",
+        "InnerLocation" : "タングル湿林源流",
+        "Bait" : "グロウワーム",      
+        "Notice" : "天氣變化: 妖霧 → 晴れ、快晴"
+    },
+    {
+        "Name" : "血紅龍",
+        "StartTime" : 4,
+        "EndTime" : 11,
+        "Weather" : ["霧"],
+        "Location" : "モードゥナ",
+        "InnerLocation" : "唄う裂谷",
+        "Bait" : "ハニーワーム → 銀魚",     
+        "Notice" : "天氣變化: 晴れ、快晴 → 霧"
+    },
+    {
+        "Name" : "ジャノ",
+        "StartTime" : 8,
+        "EndTime" : 17,
+        "Weather" : ["妖霧"],
+        "Location" : "モードゥナ",
+        "InnerLocation" : "唄う裂谷北部",
+        "Bait" : "ハニーワーム → 銀魚 → 金魚",      
+        "Notice" : ""
+    },
+    {
+        "Name" : "クノ・ザ・キラー",
+        "StartTime" : 8,
+        "EndTime" : 23,
+        "Weather" : [],
+        "Location" : "モードゥナ",
+        "InnerLocation" : "唄う裂谷北部",
+        "Bait" : "ハニーワーム → 銀魚 → アサシンベタ",
+        "Notice" : "漁師直感: ハニーワーム → 銀魚 → 金魚 → ジャノ"      
+    }
+]
