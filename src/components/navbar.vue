@@ -26,13 +26,14 @@ export default {
   }, 
     
   mounted() {
+    const vm = this
     setInterval(function() {  
       const eorzeaTime = new EorzeaTime();
       const localTime = new Date(); 
-      this.nowEorzeaTime = eorzeaTime.toString().slice(0,-3);
-      this.nowLocalTime = `${localTime.getHours() < 10 ? "0" : ""}${localTime.getHours()}:${localTime.getMinutes() < 10 ? "0" : ""}${localTime.getMinutes()}`;                              
-    },1500) 
-    this.$bus.$on('collapse-click', function() {
+      vm.nowEorzeaTime = eorzeaTime.toString().slice(0,-3);
+      vm.nowLocalTime = `${localTime.getHours() < 10 ? "0" : ""}${localTime.getHours()}:${localTime.getMinutes() < 10 ? "0" : ""}${localTime.getMinutes()}`;                              
+    },1500); 
+    vm.$bus.$on('collapse-click', function() {
       document.querySelector(".navbar-toggler").click();
     })       
   }
