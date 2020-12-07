@@ -3,7 +3,7 @@
     <div class="container p-3 ml-0 ">
       <div class="row">
         <div class="col-3">
-          <img :src="`../fishpicture/${id[0].Name}.png`"  class="img-fluid">
+          <img :src="require(`@/assets/fishpicture/${id[0].Name}.png`)"  class="img-fluid">
         </div>
         <div class="col-9">
           <div class="d-flex">
@@ -90,7 +90,7 @@ export default {
     }
   },
   created() {
-    this.$http.get( "/fish.json").then((response) => {
+    this.$http.get( "https://sino980294.github.io/FF14-fish2.0/fish.json").then((response) => {
       this.data = response.data;
       const id = this.$route.params.id
       const NameArray = this.data.map(item => item.Name); 

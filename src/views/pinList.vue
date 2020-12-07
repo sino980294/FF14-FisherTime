@@ -49,7 +49,7 @@ export default {
     }
   },
   created() {
-    this.$http.get( "/fish.json").then((response) => {
+    this.$http.get( "https://sino980294.github.io/FF14-fish2.0/fish.json").then((response) => {
       this.data = response.data; 
       this.pin = JSON.parse(localStorage.getItem('pins'))
       this.data.forEach(item => {

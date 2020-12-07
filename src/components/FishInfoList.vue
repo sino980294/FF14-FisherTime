@@ -12,7 +12,7 @@
     <li class="list-group-item text-left list-group-item-action container-fluid bg-secondary" v-for="item in fishTimeCheckList(nums)" :key="item.Name">
       <div class="row">
         <div class="col-lg-2 col-3">
-          <img :src="`../fishpicture/${item.Name}.png`" class="img-fluid">
+          <img :src="require(`@/assets/fishpicture/${item.Name}.png`)" class="img-fluid">
         </div>
         <div class="col-lg-10 col-9">
           <div class="d-flex">
