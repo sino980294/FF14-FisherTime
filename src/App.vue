@@ -12,6 +12,7 @@
       </div>
     </div> 
     <footbar></footbar>
+    <div class="totop bg-dark text-light h5" @click="goToTop">回頂部</div>
   </div>
 </template>
 
@@ -44,6 +45,9 @@ export default {
           func.apply(context, args)
         }, delay);
       }
+    },
+    goToTop() {
+      document.documentElement.scrollTop = 0;
     }
   },
   
@@ -63,6 +67,14 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+}
+
+.totop {
+  position: fixed;
+  bottom: 20px;
+  right: 0;
+  z-index: 1000;
+  cursor: pointer;
 }
 
 @media (min-width: 767.98px){
